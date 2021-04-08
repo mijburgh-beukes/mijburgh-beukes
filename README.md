@@ -1,5 +1,14 @@
-### Hi there 👋
+## Hi, I'm Mijburgh Beukes, but most people just call me 'Burg'
 
+I know, it's just easier than trying to pronounce my full name and feeling akward about it! And I've heard a few doozies over the years... but I digress.
+
+I'm a full stack software developer that is interested in improving the human condition using code. My cup gets filled when I see people enjoying using software that [I helped create](https://burg-benjamin-apod.herokuapp.com/). Solving gnarly problems is immensely satisfying to me, as well as learning to use new technologies in order to solve these problems in the best way possible. 
+
+At the moment, I am on the hunt for a developer/engineer role in an organisation that actively encourages and challenges its employees to advance their own development. In the meantime, I'm learning how to use React Native and will soon be diving into some TypeScript as well.
+
+### Not enough info?
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/mijburghbeukes/)
+- Find out about my [bootcamp experiences](https://mijburgh-beukes.github.io/)
 <!--
 **mijburgh-beukes/mijburgh-beukes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
