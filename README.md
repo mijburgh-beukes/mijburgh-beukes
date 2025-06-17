@@ -2,7 +2,7 @@
 
 I'm a full stack software developer that is interested in improving the human condition using code. My cup gets filled when I see people enjoying using software that I helped create. Solving gnarly problems is immensely satisfying to me, as well as learning to use new technologies in order to solve these problems in the best way possible. 
 
-I enjoy working in TypeScript, and have recently delved into the world of [htmx](https://htmx.org/). I love learning on a continual basis, even if it comes at the cost of losing a few hairs in the process! If you enjoy collaboting on projects, like I do, get in touch!
+I enjoy working in TypeScript, and have recently delved into the world of [htmx](https://htmx.org/). I love learning on a continual basis, even if it comes at the cost of losing a few hairs in the process! If you enjoy collaborating on projects, like I do, get in touch!
 
 ### Not enough info?
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/mijburghbeukes/)
