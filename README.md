@@ -1,8 +1,11 @@
 ## Hi, I'm Burg
 
-I'm a full stack software developer that is interested in improving the human condition using code. My cup gets filled when I see people enjoying using software that I helped create. Solving gnarly problems is immensely satisfying to me, as well as learning to use new technologies in order to solve these problems in the best way possible. 
+Full Stack Software Developer with 5 years shipping production TypeScript/React/Node systems on AWS — public-facing product configurators, multi-tenant B2B SaaS portals, and internal tooling used across 6 businesses. Previously a 12-year designer, bringing product and UX judgement to engineering; owns delivery end-to-end from CI/CD to observability and has embedded agentic engineering into day-to-day development workflows.
 
-I enjoy working in TypeScript, and have recently delved into the world of [htmx](https://htmx.org/). I love learning on a continual basis, even if it comes at the cost of losing a few hairs in the process! If you enjoy collaborating on projects, like I do, get in touch!
+### Production Applications
+- [Energyline Projects Gallery](https://www/projects.energyline.net)
+- [Energyline System Builder](https://www/systems.energyline.net/75)
+- [QTL Lighting Configurator](https://www.configurator.qtl.lighting/peri)
 
 ### Not enough info?
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/mijburghbeukes/)
