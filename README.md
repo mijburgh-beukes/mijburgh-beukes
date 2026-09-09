@@ -3,8 +3,8 @@
 Full Stack Software Developer with 5 years shipping production TypeScript/React/Node systems on AWS — public-facing product configurators, multi-tenant B2B SaaS portals, and internal tooling used across 6 businesses. Previously a 12-year designer, bringing product and UX judgement to engineering; owns delivery end-to-end from CI/CD to observability and has embedded agentic engineering into day-to-day development workflows.
 
 ### Production Applications
-- [Energyline Projects Gallery](https://www/projects.energyline.net)
-- [Energyline System Builder](https://www/systems.energyline.net/75)
+- [Energyline Projects Gallery](https://wwww.projects.energyline.net)
+- [Energyline System Builder](https://www.systems.energyline.net/75)
 - [QTL Lighting Configurator](https://www.configurator.qtl.lighting/peri)
 
 ### Not enough info?
